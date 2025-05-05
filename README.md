@@ -26,9 +26,11 @@ Este repositório contém os exercícios realizados durante o curso de Playwrigh
    git clone https://github.com/tainahmr/saucedemo_pw144.git
 
 2. Acesse a pasta do projeto:
+```bash
 cd saucedemo_pw144
 
 3. Instale as dependências:
+```bash
 npm install
 
 4.Execute os testes: 
