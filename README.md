@@ -10,7 +10,7 @@ Este repositório contém os exercícios realizados durante o curso de Playwrigh
 - Execução em diferentes navegadores
 - Testes com múltiplos contextos e abas
 - Manipulação de elementos (inputs, botões, checkboxes, etc.)
-- Testes com autenticação
+- Testes com POO 
 - Geração de relatórios
 
 ## 🛠️ Tecnologias Utilizadas
