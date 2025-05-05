@@ -1,6 +1,6 @@
 # **Exercícios do Curso de Playwright**
 
-Este repositório contém os exercícios realizados durante o curso de Playwright, focado em automação de testes para aplicações web.
+Este repositório contém os exercícios realizados durante o curso de Playwright, focado em automação de testes para aplicações web, voltado para o site https://www.saucedemo.com.
 
 ## 📚 Conteúdo Abordado
 
