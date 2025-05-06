@@ -11,7 +11,7 @@ Este repositório contém os exercícios realizados durante o curso de Playwrigh
 - Testes com múltiplos contextos e abas
 - Manipulação de elementos (inputs, botões, checkboxes, etc.)
 - Testes com POO 
-- Geração de relatórios
+- Arquivo CSV com massa de dados para os testes
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -26,16 +26,16 @@ Este repositório contém os exercícios realizados durante o curso de Playwrigh
    git clone https://github.com/tainahmr/saucedemo_pw144.git
    ```
 2. Acesse a pasta do projeto:
-```bash
-cd saucedemo_pw144
-```
+   ```bash
+   cd saucedemo_pw144
+   ```
 3. Instale as dependências:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 4.Execute os testes: 
-```bash
-npx playwright test
-```
+   ```bash
+   npx playwright test
+   ```
 📝 Observações
 Os exercícios estão organizados por módulos/pastas conforme a progressão do curso. Cada pasta contém arquivos de teste com exemplos práticos.
